@@ -1,0 +1,86 @@
+The road maps of the region have changed since 1905 ; ; inns have burned down , moved elsewhere , or taken other names .
+Once on the road ( and especially if the passengers were all regulars and masculine ) , the schedule meant nothing .
+An agreeable ease suffused Vernon and the passengers of the tallyho , from which there issued clouds of smoke .
+Vernon would tilt his hat over one ear as he lounged with his feet on the dashboard , indulging in a huge cigar .
+The horses moved at a clump ; ; they were no more on parade than was their driver ; ; one fork of the road was as good as another .
+The Santa Cruz mountains sprawl over three counties , and the roads twist through sky-tapping redwoods down whose furrowed columns ripple streams of rain , even when heat bakes the Santa Clara valley below at the left .
+The water splashes into shoulder-high tracts of fernery .
+You arrive there in seersucker , and feel you were half-witted not to bring a mackintosh .
+The guards lowered their rifles and their rifles and peered at Watson with sullen , puzzled faces .
+Watson pounded to the crawling man and stopped , panting heavily .
+He reached down and closed his fingers on the man's upper arm .
+Beneath his clutch , a flat strip of muscle surged on the bone .
+Watson bent awkwardly and lifted the man to his feet .
+Watson stared into a cadaverous face .
+Two clotted balls the color of mucus rolled between fiery lids .
+Light sticks of fingers , the tips gummy with dark earth , patted at Watson's throat .
+The man's voice was a sweet , patient whisper .
+By then Hez could see for himself , and so could the others .
+Soon they were all shouting greetings , exchanging smiles , and rejoicing to think that they were all back together again .
+But even a reunion as joyous as this one did not make a break in the routines of the day .
+Nor could they stop and find out about all that had happened until they made circle , tended the cattle , tethered the horses , gathered fuel , carried water , and started their cooking fires .
+Then , and only then , with the Jacksons and Dan as their true guests of honor , did the Harrows take time to catch up on the news .
+No sooner did they hear of Dan's injury than both Gran and Matilda went into immediate action .
+The wound in his scalp was examined , pronounced healing , and well doctored with simples , before they dished up the victuals .
+From then on , in keeping with the traditions they had followed since childhood , the whole group settled down to relish their food .
+Even Sally , in spite of her gaiety and obvious welcome , followed the old taboo of `` quitting the gab when wearing the nosebag '' .
+The Belgians also placed great emphasis on education .
+During the 1950s there were as many as 25,000 schools in the Congo .
+But almost all the schools were primary .
+The average Congolese can do little more than puzzle out the meaning of `` la chatte '' and `` le chien '' and write his name .
+Some schools were technical -- the Belgians needed carpenters and mechanics to help exploit the land , and trained many .
+But they did not believe in widespread secondary education , much less in college .
+It was their conviction that the people should be `` brought up together '' , a grade at a time , until in some indefinite future some might be ready to tackle history , economics and political science .
+Indeed , the Belgians discouraged higher education , fearing the creation of a native intellectual elite which might cause unrest .
+When the Congo received its independence in 1960 there were , among its 13.5 million people , exactly 14 university graduates .
+Alexander shifted his gaze to Spencer .
+The calmness and detachment of his tone suggested unawareness of how implicit was his own guilt in the words he had used to defend Cromwell .
+Alexander knew Spencer too well to think him naive or thick-skulled .
+And in a sudden wave of painful clarity , Alexander recognized a kinship with Spencer .
+Here was another human who understood the stupidity of quarreling with the inevitable .
+There was good fortune and there was bad and Philip Spencer , in handcuffs and ankle irons , knew it to be a truth .
+He expected nothing for himself but that which naturally follows those marked for misfortune .
+The red-haired captain , towering above the prisoner as a symbol of decency and authority , was shocked to find himself looking with sympathy upon Philip Spencer .
+This tragic lad had forged his own shackles .
+But he could not have done so , could not have found the way , had fortune favored him .
+And because fortune had favored neither the prisoner nor the red-haired captain , they would be each other's undoing .
+Several of the replies to Mr. Toynbee , without conscious resort to the traditional terminology with regard to the permission of evil , succeed in restoring the actual context in which present moral and political decisions must be made , by distinguishing between choosing a great evil and choosing in danger of this evil .
+`` It is worse for a nation to give in to evil than to run the risk of annihilation '' .
+`` I am consciously prepared to run the continued risk of ' race suicide by accident ' rather than accept the alternative certainty of race slavery by design .
+But I can only make this choice because I believe that the risk need not increase , but may be deliberately reduced '' ( by precautions against accidents or by limiting war ? ? )
+`` Quoting Mr. Kennan's phrase that anything would be better than a policy which led inevitably to nuclear war , he ( Toynbee ) says that anything is better than a policy which allows for the possibility of nuclear war '' .
+`` If asked to choose between a terrible probability and a more terrible possibility , most men will choose the latter '' .
+`` If Philip Toynbee is claiming that the choice lies between capitulation and the risk of nuclear war , I think he is right .
+I do not accept that the choice is between capitulation and the certainty of nuclear war '' .
+Even Professor Arnold Toynbee , agreeing with his son , does so in these terms : `` Compared to continuing to incur a constant risk of the destruction of the human race , all other evils are lesser evils .
+Let us therefore put first things first , and make sure of preserving the human race at whatever the temporary price may be '' .
+During the quarrel I learned what the trouble was , from the accusations each hurled at the other .
+The Beech Pasture had suddenly become valuable .
+There's a fine granite quarry there , and granite's coming back for public buildings .
+Both men knew it was in the Norberg family holdings , but to which of the cousins did it belong , Anta or Freya ? ?
+Fortunately , I knew almost exactly what the will had said .
+It began with a preamble , of course .
+This explained that the judge of probate of Essex County , 1785 or 1786 , appointed three free-holders of Gloucester to divide and establish the Norberg estate .
+After the usual Honorable Sirs , it went on to say that there had been set off to the widow one full third part of the real estate of the deceased Salu Norberg , one lower room , on the Western side , privileges to the well and bake-oven and to one third of the cellar ( I can show you the cellar when we go up ) , also one Cow Right , and lastly they set off to the widow her own land that she brought with her as dower , namely the Beech Pasture .
+And I remember that the whole of the privileges , not counting the Beech Pasture , was valued at twenty pounds .
+I wish you could have seen the crests fall on these two sparring coxcombs when I told them that obviously the pasture belonged to their wives jointly .
+The grammatical descriptions of all forms in the dictionary are recorded in a separate part of the dictionary file .
+The order is identical to the ordering of the forms they describe .
+When entries are being retrieved from this file , the table of dictionary usage indicates which entries to skip and which entries to store in the computer .
+This selection-rejection process takes place as the file is read .
+Each entry that is selected for storage is written into the next available cells of the Aj .
+The address of the first cell and the number of cells used is written in the information cell for the form .
+( The address of the information cell is also supplied by the table of dictionary usage . )
+When the complete file has been read , the grammatical descriptions for all text forms found in the dictionary have been stored in the W-region ; ; the information cell assigned to each text form contains the address of the grammatical description of the form it represents .
+Hence , the description of each text occurrence can be retrieved by reading the list of text-ordered information-cell addresses and outputting the description indicated by the information cell for each occurrence .
+Another controversy typical of the war between the Englishman and the Examiner centered on Robert ( later Viscount ) Molesworth , a Whig leader in Ireland and a member of the Irish Privy Council .
+On December 21 , the day that the Irish House of Commons petitioned for removal of Sir Constantine Phipps , their Tory Lord Chancellor , Molesworth reportedly made this remark on the defense of Phipps by Convocation : `` They that have turned the world upside down , are come hither also '' .
+Upon complaints from the Lower House of Convocation to the House of Lords , he was removed from the Privy Council , his remark having been represented as a blasphemous affront to the clergy .
+Steele , who had earlier praised Molesworth in Tatler No.
+189 , now defended him in Englishman No.
+46 , depicting his removal as a setback to the Constitution .
+On the other hand , Molesworth was naturally assailed in the Tory press .
+Swift , in the Dublin edition of A Preface to the Bishop of Sarum's Introduction , indicated his feelings by including Molesworth , along with Toland , Tindal , and Collins , in the group of those who , like Burnet , are engaged in attacking all Convocations of the clergy .
+In the same way he coupled Molesworth and Wharton in a letter to Archbishop King , and he had earlier described him as `` the worst of them '' in some `` Observations '' on the Irish Privy Council submitted to Oxford .
+A month later , in The Publick Spirit Of The Whigs , he used Steele's defense of Molesworth as evidence of his disrespect for the clergy , calling Steele's position an affront to the `` whole Convocation of Ireland '' .
+On this issue , then , as on so many in these months , Steele and Swift took rigidly opposed points of view .

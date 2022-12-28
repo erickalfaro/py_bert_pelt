@@ -1,0 +1,81 @@
+The grammatical descriptions of all forms in the dictionary are recorded in a separate part of the dictionary file .
+The order is identical to the ordering of the forms they describe .
+When entries are being retrieved from this file , the table of dictionary usage indicates which entries to skip and which entries to store in the computer .
+This selection-rejection process takes place as the file is read .
+Each entry that is selected for storage is written into the next available cells of the Aj .
+The address of the first cell and the number of cells used is written in the information cell for the form .
+( The address of the information cell is also supplied by the table of dictionary usage . )
+When the complete file has been read , the grammatical descriptions for all text forms found in the dictionary have been stored in the W-region ; ; the information cell assigned to each text form contains the address of the grammatical description of the form it represents .
+Hence , the description of each text occurrence can be retrieved by reading the list of text-ordered information-cell addresses and outputting the description indicated by the information cell for each occurrence .
+Hal knew that when that side of Earth rotated into the night zone , Sigmen City would blaze out into space .
+And , somewhere in that enormous light , was his apartment .
+But Mary would soon no longer be living there , for she would be notified in a few days that her husband had died in an accident while on a flight to Tahiti .
+She would weep in private , he was sure , for she loved him in her frigid way , though in public she would be dry-eyed .
+Her friends and professional associates would sympathize with her , not because she had lost a beloved husband , but because she had been married to a man who thought unrealistically .
+If Hal Yarrow had been killed in a crash , he must have wanted it that way .
+There was no such thing as an `` accident '' .
+Somehow , all the other passengers ( also supposed to have died in this web of elaborate frauds to cover up the disappearance of the personnel of the Gabriel ) had simultaneously `` agreed '' to die .
+And , therefore , being in disgrace , they would not be cremated and their ashes flung to the winds in public ceremony .
+No , the fish could eat their bodies for all the Sturch cared .
+Camping is big and getting bigger .
+No one knows where it will stop .
+Almost every official who reflects on it thinks this movement of Americans to canvas dwellings opens one of the most promising of all outdoor markets .
+You read various guesses on how many Americans are camping .
+The number depends on who is talking at the moment .
+The figures range as high as 15 million families .
+I've heard 10 million mentioned often , but I'm more inclined to think there may be a total of some five to seven million families camping .
+Seven million families would total 30 million Americans or more .
+Consider the equipment needed to protect this many from the weather , to make their cooking easy and their sleeping comfortable .
+With this act of disobedience , and not with the inception of his individual existence , man began the downward circuit on the spiral of history , descending from the created capacity for immortality to an inescapable mortality .
+At the nadir of that circuit is death .
+`` Along with the fruit they did also fall under the power of death , because they did eat in disobedience ; ; and disobedience to God entails death .
+Wherefore , as they became forfeit to death , from that ( moment ) they were handed over to it '' .
+This leads Irenaeus to the somewhat startling notion that Adam and Eve died on the same day that they disobeyed , namely , on a Friday , as a parallel to the death of Christ on Good Friday ; ; he sees a parallel also to the Jewish day of preparation for the Sabbath .
+In any case , though they had been promised immortality if they ate of the tree , they obtained mortality instead .
+The wages of sin is death .
+Man's life , originally shaped for immortality and for communion with God , must now be conformed to the shape of death .
+One of the most frequent views of the value of literature is the education of sensibility that it is thought to provide .
+Sensibility is a vague word , covering an area of meaning rather than any precise talent , quality , or skill .
+Among other things it means perception , discrimination , sensitivity to subtle differences .
+Both the extent to which this is true and the limits of the field of perceptual skill involved should be acknowledged .
+Its truth is illustrated by the skill , sensitivity , and general expertise of the English professor with whom one attends the theatre .
+The limits are suggested by an imaginary experiment : contrast the perceptual skill of English professors with that of their colleagues in discriminating among motor cars , political candidates , or female beauty .
+Along these lines , the particular point that sensitivity in literature leads to sensitivity in human relations would require more proof than I have seen .
+In a symposium and general exploration of the field of Personal Perception and Interpersonal Behavior the discussion does not touch upon this aspect of the subject , with one possible exception ; ; Solomon Asch shows the transcultural stability of metaphors based on sensation ( hot , sweet , bitter , etc. )
+dealing with personal qualities of human beings and events .
+But to go from here to the belief that those more sensitive to metaphor and language will also be more sensitive to personal differences is too great an inferential leap .
+The greatest team of this period was unquestionably the New York Yankees , bought by brewery millions and made into a ball club by men named Ed Barrow and Miller Huggins .
+Boston fans sometimes liked to wring some wry satisfaction out of the fact that most of the great 1923-27 crew were graduates of the Red Sox -- sold to millionaires Huston and Ruppert by a man who could not deny them their most trifling desire .
+Ruth himself , still owning his farm in Massachusetts and an interest in the Massachusetts cigar business that printed his round boyish face on the wrappers , had led the parade down from Fenway Park , followed by pitchers Carl Mays , Leslie `` Joe '' Bush , Waite Hoyt , Herb Pennock , and Sam Jones , catcher Wally Schang , third baseman Joe Dugan ( who completed the `` playboy trio '' of Ruth , Dugan , and Hoyt ) , and shortstop Everett Scott .
+By 1926 , when the mighty Yanks were at their mightiest , only a few of these were left but they still shone brightest , even beside able and agile rookies like Tony Lazzeri ( who managed never to have one of his epileptic fits on the field ) , Mark Koenig , Lou Gehrig , George Pipgras , and gray-thatched Earl Combs .
+The deeds of this team , through two seasons and in the two World's Series that followed , have been written and talked about until hardly a word is left to be said .
+But there is one small episode that a few New York fans who happened to sit in the cheap seats for one World's Series game in 1926 like best to recall .
+Babe Ruth , as he always did in the Stadium , played right field to avoid having the sun in his eyes , and Tommy Thevenow , a rather mediocre hitter who played shortstop for the St. Louis Cardinals , knocked a ball with all his might into the sharp angle formed by the permanent stands and the wooden bleachers , where Ruth could not reach it .
+The ball lay there , shining white on the grass in view of nearly every fan in the park while Ruth , red-necked with frustration , charged about the small patch of ground screaming , `` Where's the -- -ing ball '' ? ?
+But , as he snarled unhappily when the inning was over , `` not a sonofabitch in the place would tell me '' , so little Tommy ran all the way home .
+Where before had she felt or dreamt or imagined such a scene ? ?
+She already knew this unwholesome , chilling atmosphere that was somehow grotesquely alive .
+It enclosed her clammy hands and twined around her ankles .
+It crept into the open neck of her blouse and slid down her body , seeping into her flesh through all the quivering pores of her skin .
+It crawled across her breasts , suffocating the life in her nipples .
+It circled her thighs , exploring with its icy tentacles .
+It entered her body with the ghastly intimacy of an incubus , and its particles , spreading , creeping , crawling , joined themselves into steel bands that constricted her knees so tightly that they ached ; ; stifled her lungs so that her breath came in harsh gasps ; ; clutched her throat and sucked up the moisture in her mouth so that her tongue was dry and hard and stuck to the roof of her mouth and her teeth were clenched together in the rigid fixture of her jaws .
+For moments he stood in water , shivering and gasping for breath .
+He had turned his ankle slightly , and it pained him .
+The cars , with their load of howling men , had disappeared in the distance .
+There had been two more cars parked at the farm , a Plymouth and a pickup truck .
+They would be coming for him next , bearing down on him from both directions .
+And then the station wagon and the Ford would seek him out again .
+He would be harassed repeatedly and would escape death by inches time after time , all the way to Jarrodsville .
+He still had three miles to go .
+Back East the more affluent juvenile delinquents , who could afford hyped-up autos instead of switch blades as lethal weapons , played this same game and called it `` Chicken '' .
+Foreign policy in its total context With this enlarged role in mind , I should like to make a few suggestions : What we in the United States do or do not do will make a very large difference in what happens in the rest of the world .
+We in this Department must think about foreign policy in its total context .
+We cannot regard foreign policy as something left over after defense policy or trade policy or fiscal policy has been extracted .
+Foreign policy is the total involvement of the American people with peoples and governments abroad .
+That means that , if we are to achieve a new standard of leadership , we must think in terms of the total context of our situation .
+It is the concern of the Department of State that the American people are safe and secure -- defense is not a monopoly concern of the Department of Defense .
+It is also the concern of the Department of State that our trading relationships with the rest of the world are vigorous , profitable , and active -- this is not just a passing interest or a matter of concern only to the Department of Commerce .
+We can no longer rely on interdepartmental machinery `` somewhere upstairs '' to resolve differences between this and other departments .
+Assistant Secretaries of State will now carry an increased burden of active formulation and coordination of policies .
+Means must be found to enable us to keep in touch as regularly and as efficiently as possible with our colleagues in other departments concerned with foreign policy .

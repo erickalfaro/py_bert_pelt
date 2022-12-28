@@ -1,0 +1,76 @@
+The easiest way to describe this release is to say that it reproduces an interesting and effective Steinberg performance with minimal alteration of its musical values .
+The engineering as such never obtrudes upon your consciousness .
+The effect of the recording is very open and natural , with the frequency emphasis exactly what you would expect from a live performance .
+This absence of peaky highs and beefed-up bass not only produces greater fidelity , but it eliminates listener fatigue .
+A contributing factor is the perspective , the uniform aesthetic distance which is maintained .
+The orchestra is far enough away from you that you miss the bow scrapes , valve clicks , and other noises incidental to playing .
+Yet you feel the orchestra is near at hand , and the individual instruments have the same firm presence associated with listening from a good seat in an acoustically perfect hall .
+Command has achieved the ideal amount of reverberation .
+The music is always allowed the living space needed to attain its full sonority ; ; yet the hall never intrudes as a quasi-performer .
+The timbre remains that of the instruments unclouded by resonance .
+The key to Protestant development , therefore , is economic integration of the nucleus of the congregation .
+Members of higher and lower social status often cluster around this nucleus , so that Protestant figures on social class give the impression of spread over all social classes ; ; but this is deceptive , for the core of membership is concentrated in a single social and economic stratum .
+The congregation perishes when it is no longer possible to replenish that core from the neighborhood ; ; moreover , residential mobility is so high in metropolitan areas that churches have to recruit constantly in their core stratum in order to survive ; ; they can lose higher- and lower-status members from the church without collapsing , but they need adequate recruits for the core stratum in order to preserve economic integration .
+The congregation is first and foremost an economic peer group ; ; it is secondarily a believing and worshiping fellowship .
+If it were primarily a believing fellowship , it would recruit believers from all social and economic ranks , something which most congregations of the New Protestantism ( with a few notable exceptions ) have not been able to do .
+They survive only when they can recruit social and economic peers .
+The Belgians also placed great emphasis on education .
+During the 1950s there were as many as 25,000 schools in the Congo .
+But almost all the schools were primary .
+The average Congolese can do little more than puzzle out the meaning of `` la chatte '' and `` le chien '' and write his name .
+Some schools were technical -- the Belgians needed carpenters and mechanics to help exploit the land , and trained many .
+But they did not believe in widespread secondary education , much less in college .
+It was their conviction that the people should be `` brought up together '' , a grade at a time , until in some indefinite future some might be ready to tackle history , economics and political science .
+Indeed , the Belgians discouraged higher education , fearing the creation of a native intellectual elite which might cause unrest .
+When the Congo received its independence in 1960 there were , among its 13.5 million people , exactly 14 university graduates .
+There is nothing in the whole range of human experience more widely known and universally felt than spirit .
+Apart from spirit there could be no community , for it is spirit which draws men into community and gives to any community its unity , cohesiveness , and permanence .
+Think , for example , of the spirit of the Marine Corps .
+Surely this is a reality we all acknowledge .
+We cannot , of course , assign it any substance .
+It is not material and is not a `` thing '' occupying space and time .
+Yet it exists and has an objective reality which can be experienced and known .
+So it is too with many other spirits which we all know : the spirit of Nazism or Communism , school spirit , the spirit of a street corner gang or a football team , the spirit of Rotary or the Ku Klux Klan .
+Every community , if it is alive has a spirit , and that spirit is the center of its unity and identity .
+Since then , the flowers she had planted had spread all over the hill .
+Already the jonquils were blooming in a flock by the front gate , and the periwinkles were coming on , blue by the porch steps .
+In a week the hyacinths would spike out .
+And the dogwood in early May , for Miss Ada's alfresco party ; ; and after that the Japanese cherries .
+Now the yard looked wet and bald , the trees bare under their buds , but in a while Miss Ada's flowers would bloom like a marching parade .
+She had dug a hole for each bulb , each tree wore a tag with her writing on it ; ; where would she go for her gardening now ? ?
+Somehow Winston didn't think she'd take to window boxes .
+To do this we must first show that every line which meets **zg in a point P meets its image at P . To see this , consider a general pencil of lines containing a general secant of Aj .
+By ( 1 ) , the image of this pencil is a ruled surface of order Af which is met by the plane of the pencil in a curve , C , of order Af .
+On C there is a Af correspondence in which the Af points cut from C by a general line , l , of the pencil correspond to the point of intersection of the image of L and the plane of the pencil .
+Since C is rational , this correspondence has K coincidences , each of which implies a line of the pencil which meets its image .
+However , since the pencil contains a secant of **zg it actually contains only Af singular lines .
+To avoid this contradiction it is necessary that C be composite , with the secant of **zg and a curve of order Af as components .
+Thus it follows that the secants of **zg are all invariant .
+But if this is the case , then an arbitrary pencil of lines having a point , P , of **zg as vertex is transformed into a ruled surface of order Af having Af generators concurrent at P . Since a ruled surface of order N with N concurrent generators is necessarily a cone , it follows finally that every line through a point , P , of **zg meets its image at P , as asserted .
+Once the principle was established , the increase in state-owned vehicles came rapidly .
+And reasons other than employee need contributed to the growth .
+Table 1 immediately below shows the rate of growth of vehicles and employees .
+This rate of increase does not signify anything in itself .
+It does not indicate loose management , ineffective controls or poor policy .
+But it does show that automobiles have increased steadily over the years and in almost the same proportion to the increase of state employees .
+In the past twenty years the ratio of state-owned automobiles per state employees has varied from 1 to 22 then to 1 to 23 now .
+Whether there were too few automobiles in 1940 or too many now is problematical .
+The fact is simply that state-owned vehicles have remained in practically the same proportion as employees to use them .
+History and operation of the motor pool .
+William Sansom writes only about Europe in this book and frequently of such familiar places as London , Vienna , the French Riviera and the Norwegian fjords .
+But no matter what he writes about he brings to his subject his own original mind and his own sensitive reactions .
+`` A writer lives , at best , in a state of astonishment '' , he says .
+`` Beneath any feeling he has of the good or the evil of the world lies a deeper one of wonder at it all .
+To transmit that feeling he writes '' .
+This may not be true of many writers , but it certainly is true of Mr. Sansom .
+So in these pages one can share his wonder at the traditional fiesta of St. Torpetius that still persists in St. Tropez ; ; at the sun and the heat of Mediterranean lands , always much brighter and hotter to an Englishman than to an American used to summers in New York or Kansas City ; ; at the supreme delights to be found in one of the world's finest restaurants , La Bonne Auberge , which is situated on the seacoast twenty miles west of the Nice airport ; ; and at the infinite variety of London .
+Mrs. Holden turned from the window draperies .
+`` They found something else up there '' , she said half-aloud to the empty room .
+`` They took it away , overalls or something '' .
+She walked restlessly across the room , then back to the windows .
+`` Now they've gone , they didn't come back , and they didn't arrest that Dronk boy '' .
+She stood frowning and chewing her lip .
+She was wearing a brown cotton dress , cut across the hips in a way that was supposed to make her look slimmer , a yoke set into the skirt and flaring pleats below .
+She smoothed the skirt , sat down , then stood up and went back to the windows .
+`` Why on earth did I send him off to work ? ?
+There was excuse enough to keep him home that young Mr. Arthur's still over there '' .

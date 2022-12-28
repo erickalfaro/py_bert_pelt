@@ -1,0 +1,89 @@
+During the quarrel I learned what the trouble was , from the accusations each hurled at the other .
+The Beech Pasture had suddenly become valuable .
+There's a fine granite quarry there , and granite's coming back for public buildings .
+Both men knew it was in the Norberg family holdings , but to which of the cousins did it belong , Anta or Freya ? ?
+Fortunately , I knew almost exactly what the will had said .
+It began with a preamble , of course .
+This explained that the judge of probate of Essex County , 1785 or 1786 , appointed three free-holders of Gloucester to divide and establish the Norberg estate .
+After the usual Honorable Sirs , it went on to say that there had been set off to the widow one full third part of the real estate of the deceased Salu Norberg , one lower room , on the Western side , privileges to the well and bake-oven and to one third of the cellar ( I can show you the cellar when we go up ) , also one Cow Right , and lastly they set off to the widow her own land that she brought with her as dower , namely the Beech Pasture .
+And I remember that the whole of the privileges , not counting the Beech Pasture , was valued at twenty pounds .
+I wish you could have seen the crests fall on these two sparring coxcombs when I told them that obviously the pasture belonged to their wives jointly .
+Since then , the flowers she had planted had spread all over the hill .
+Already the jonquils were blooming in a flock by the front gate , and the periwinkles were coming on , blue by the porch steps .
+In a week the hyacinths would spike out .
+And the dogwood in early May , for Miss Ada's alfresco party ; ; and after that the Japanese cherries .
+Now the yard looked wet and bald , the trees bare under their buds , but in a while Miss Ada's flowers would bloom like a marching parade .
+She had dug a hole for each bulb , each tree wore a tag with her writing on it ; ; where would she go for her gardening now ? ?
+Somehow Winston didn't think she'd take to window boxes .
+It is important for an understanding of Zen to realize that the esoteric preoccupations of the select few cannot be the doctrine of the common man .
+In the supernatural atmosphere of cosmic government , only the ruling elite was ever concerned with a kingdom-wide ordering of nature : popular religion aimed at more personal benefits from magical powers .
+And this is only natural -- witness the haste with which modern man gobbles the latest `` wonder drug '' .
+Early Chinese anchoritism was theoretically aimed at a mystic pantheist union with the divine , personal salvation being achieved when the mystical recluse united with divine essence .
+But this esoteric doctrine was lost in the shuffle to acquire special powers .
+The anchorite strove , in fact , to magically influence the world of spirits in the same way that the divine emperor manifested his power .
+Thus , the Mahayana metaphysic of mystical union for salvation was distilled down to a bare self-seeking , and for this reason , the mystic in Asia did not long remain in isolated contemplation .
+As the Zen literature reveals , as soon as an early Zen master attained fame in seclusion , he was called out into the world to exercise his powers .
+The early Anchorite masters attracted disciples because of their presumed ability to perform miracles .
+The Belgians also placed great emphasis on education .
+During the 1950s there were as many as 25,000 schools in the Congo .
+But almost all the schools were primary .
+The average Congolese can do little more than puzzle out the meaning of `` la chatte '' and `` le chien '' and write his name .
+Some schools were technical -- the Belgians needed carpenters and mechanics to help exploit the land , and trained many .
+But they did not believe in widespread secondary education , much less in college .
+It was their conviction that the people should be `` brought up together '' , a grade at a time , until in some indefinite future some might be ready to tackle history , economics and political science .
+Indeed , the Belgians discouraged higher education , fearing the creation of a native intellectual elite which might cause unrest .
+When the Congo received its independence in 1960 there were , among its 13.5 million people , exactly 14 university graduates .
+Foreign policy in its total context With this enlarged role in mind , I should like to make a few suggestions : What we in the United States do or do not do will make a very large difference in what happens in the rest of the world .
+We in this Department must think about foreign policy in its total context .
+We cannot regard foreign policy as something left over after defense policy or trade policy or fiscal policy has been extracted .
+Foreign policy is the total involvement of the American people with peoples and governments abroad .
+That means that , if we are to achieve a new standard of leadership , we must think in terms of the total context of our situation .
+It is the concern of the Department of State that the American people are safe and secure -- defense is not a monopoly concern of the Department of Defense .
+It is also the concern of the Department of State that our trading relationships with the rest of the world are vigorous , profitable , and active -- this is not just a passing interest or a matter of concern only to the Department of Commerce .
+We can no longer rely on interdepartmental machinery `` somewhere upstairs '' to resolve differences between this and other departments .
+Assistant Secretaries of State will now carry an increased burden of active formulation and coordination of policies .
+Means must be found to enable us to keep in touch as regularly and as efficiently as possible with our colleagues in other departments concerned with foreign policy .
+The grammatical descriptions of all forms in the dictionary are recorded in a separate part of the dictionary file .
+The order is identical to the ordering of the forms they describe .
+When entries are being retrieved from this file , the table of dictionary usage indicates which entries to skip and which entries to store in the computer .
+This selection-rejection process takes place as the file is read .
+Each entry that is selected for storage is written into the next available cells of the Aj .
+The address of the first cell and the number of cells used is written in the information cell for the form .
+( The address of the information cell is also supplied by the table of dictionary usage . )
+When the complete file has been read , the grammatical descriptions for all text forms found in the dictionary have been stored in the W-region ; ; the information cell assigned to each text form contains the address of the grammatical description of the form it represents .
+Hence , the description of each text occurrence can be retrieved by reading the list of text-ordered information-cell addresses and outputting the description indicated by the information cell for each occurrence .
+By the time we arrived , the party was already going strong .
+A couple of the girls were laughing rather shrilly and I realized they were drinking .
+My folks wouldn't dream of having alcohol in the house , so my first taste of it had been -- of course -- with Johnnie .
+I hadn't liked it at first -- it was bitter and burning .
+But when Johnnie disguised the taste with ginger ale , I enjoyed it .
+Of course I enjoyed 'most anything if I did it with Johnnie .
+Johnnie I suddenly realized he'd been totally out of my thoughts all evening .
+But that was only natural , I decided ; ; surely he was still resting snugly in my heart .
+The easiest way to describe this release is to say that it reproduces an interesting and effective Steinberg performance with minimal alteration of its musical values .
+The engineering as such never obtrudes upon your consciousness .
+The effect of the recording is very open and natural , with the frequency emphasis exactly what you would expect from a live performance .
+This absence of peaky highs and beefed-up bass not only produces greater fidelity , but it eliminates listener fatigue .
+A contributing factor is the perspective , the uniform aesthetic distance which is maintained .
+The orchestra is far enough away from you that you miss the bow scrapes , valve clicks , and other noises incidental to playing .
+Yet you feel the orchestra is near at hand , and the individual instruments have the same firm presence associated with listening from a good seat in an acoustically perfect hall .
+Command has achieved the ideal amount of reverberation .
+The music is always allowed the living space needed to attain its full sonority ; ; yet the hall never intrudes as a quasi-performer .
+The timbre remains that of the instruments unclouded by resonance .
+The reason for this bears explaining for those who may wonder why State spends so much of its diplomatic energy on Congress when the Russians are so available .
+First , the State Department is unique among government agencies for its lack of public supporters .
+The farmers may be aroused if Congress cuts into the Agriculture Department's budget .
+Businessmen will rise if Congress attacks the Commerce Department .
+Labor restrains undue brutality toward the Labor Department ; ; the Chamber of Commerce , assaults upon the Treasury .
+A kaleidoscope of pressure groups make it unpleasant for the congressman who becomes ugly toward the Department of Health , Education , and Welfare .
+The congressman's patriotism is always involved when he turns upon the Defense Department .
+Tampering with the Post Office may infuriate every voter who can write .
+Lewis gave him a guidebook tour of London and , motoring and walking , took him to Stratford , but the London stay was for only ten days , and on the twentieth they took the train for Southampton , where they spent the night for an early morning Channel crossing .
+Near Southampton , in a considerable establishment , lived Homer Vachell , a well-known pulp writer , and his brother , Horace -- both friends of Lewis's .
+He suggested that they call on these brothers , who received them pleasantly .
+Then they returned to their hotel and got ready for bed .
+It was late , and Blackman was ready to go to sleep , but Lewis was not .
+He said , `` We had a good time tonight , didn't we , Earl '' ? ?
+Earl agreed , and Lewis said that it would have been very different if his wife had been with him .
+Then he kept Blackman awake for more than an hour while he did an imaginary dialogue between his wife and himself in which , discussing the evening , he was continually berated .
+He began the dialogue by having his wife announce that one does not invade people's homes without warning them that one is coming , and went on from that with the entire catalogue of his social gaucheries .
